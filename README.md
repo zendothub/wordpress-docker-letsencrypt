@@ -11,4 +11,6 @@ It can be used to create wordpress on any virtual machine/ server like AWS EC2 i
 - Run `docker-compose up -d` to start the server
 - Create two folder here: `wp-data` and `letsencrypt`
 - Now it will be accessible from your domain
+
+### N:B above branch for when you donot want to use loadbalancer  
   
