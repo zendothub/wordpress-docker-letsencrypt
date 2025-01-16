@@ -9,3 +9,5 @@ docker --version
 docker-compose --version
 mkdir -p wp-data
 mkdir -p letsencrypt
+
+#above command for linux change according to os
